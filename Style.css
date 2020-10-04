@@ -49,7 +49,7 @@ header{
 section{
     height: 50vh;
     width: 100%;
-    background-image: url("../Images/mount.jpg");
+    background-image: url("mount.jpg");
     background-repeat: no-repeat;
     background-size: cover;
     position: relative;
